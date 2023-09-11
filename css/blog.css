@@ -15,7 +15,7 @@
     font-size: 40px;
     color: #64B5AA;
     text-align: center;
-    background: linear-gradient(rgba(0,0,0,.4),rgba(0,0,0,.4)), url('../images/costaalentejana1.jpg');
+    background: linear-gradient(rgba(0,0,0,.4),rgba(0,0,0,.4)), url(../images/costaalentejana1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -48,7 +48,7 @@
 
 /*Fake image*/
 .cb-fakeimg {
-    background-image: url('../images/costaalentejana1.jpg');
+    background-image: url(../images/costaalentejana1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -62,21 +62,21 @@
     padding: 20px;
 }
 .cb-fakeimg2 {
-    background-image: url(/images/4455.jpg);
+    background-image: url(../images/4455.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     padding: 20px;
 }
 .cb-fakeimg3 {
-    background-image: url(/images/3369.jpg);
+    background-image: url(../images/3369.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     padding: 20px;
 }
 .cb-fakeimg4 {
-    background-image: url(/images/3039.jpg);
+    background-image: url(../images/3039.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
