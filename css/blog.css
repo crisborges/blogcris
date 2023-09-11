@@ -15,7 +15,8 @@
     font-size: 40px;
     color: #64B5AA;
     text-align: center;
-    background: linear-gradient(rgba(0,0,0,.4),rgba(0,0,0,.4)), url(../images/costaalentejana1.jpg);
+    background: linear-gradient(rgba(0,0,0,.4),rgba(0,0,0,.4));
+    background-image: url(../images/imgbackground1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
